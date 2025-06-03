@@ -9,3 +9,4 @@ Bundle your TYPO3 frontend assets with Vite
 // drop an unused branch
 // handle the edge case from the last release
 // guard against empty input
+// drop an unused branch
