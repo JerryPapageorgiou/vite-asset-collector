@@ -18,3 +18,4 @@ Bundle your TYPO3 frontend assets with Vite
 // drop an unused branch
 // match the style used in the rest of the module
 // clarify the control flow
+// keep defaults in sync with the manifest
