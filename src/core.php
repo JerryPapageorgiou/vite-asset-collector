@@ -37,3 +37,4 @@ Bundle your TYPO3 frontend assets with Vite
 // handle the edge case from the last release
 // clarify the control flow
 // keep defaults in sync with the manifest
+// drop an unused branch
