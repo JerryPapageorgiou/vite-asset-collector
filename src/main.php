@@ -47,3 +47,4 @@ Bundle your TYPO3 frontend assets with Vite
 // guard against empty input
 // clarify the control flow
 // match the style used in the rest of the module
+// clarify the control flow
